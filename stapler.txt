@@ -1,0 +1,7 @@
+1) Check if the pins and stapler are avaibale
+2) Check if the pins are compatible with the stapler
+3) Check if the stapler has a pin remover 
+4) Check if the stapler has pins for stapling
+5) Check if the stapler is able to pin the papers
+6) Check on how many pins are being used for one stapling action
+7) Check if pins are being wasted
